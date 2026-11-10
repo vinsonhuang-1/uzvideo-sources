@@ -1,0 +1,301 @@
+{
+    "vod": [
+        {
+            "name": "茶杯狐[影]｜秒播",
+            "version": 1,
+            "remark": "秒播源(jsdelivr) · 实验性",
+            "webSite": "",
+            "api": "https://cdn.jsdelivr.net/gh/maccms2023/tvbox@main/lib/%E8%8C%B6%E6%9D%AF%E7%8B%90%5B%E5%BD%B1%5D.py",
+            "type": 3,
+            "order": "M01"
+        },
+        {
+            "name": "共青春｜秒播",
+            "version": 1,
+            "remark": "秒播源(jsdelivr) · 实验性",
+            "webSite": "",
+            "api": "https://cdn.jsdelivr.net/gh/maccms2023/tvbox@main/lib/%E5%85%B1%E9%9D%92%E6%98%A5.py",
+            "type": 3,
+            "order": "M02"
+        },
+        {
+            "name": "牛牛｜秒播",
+            "version": 1,
+            "remark": "秒播源(jsdelivr) · 实验性",
+            "webSite": "",
+            "api": "https://cdn.jsdelivr.net/gh/maccms2023/tvbox@main/lib/%E7%89%9B%E7%89%9B.js",
+            "type": 3,
+            "order": "M03"
+        },
+        {
+            "name": "马猴｜秒播",
+            "version": 1,
+            "remark": "秒播源(jsdelivr) · 实验性",
+            "webSite": "",
+            "api": "https://cdn.jsdelivr.net/gh/maccms2023/tvbox@main/lib/%E5%A4%A7%E9%A9%AC%E7%8C%B4.py",
+            "type": 3,
+            "order": "M04"
+        },
+        {
+            "name": "可可影视｜秒播",
+            "version": 1,
+            "remark": "秒播源(jsdelivr) · 实验性",
+            "webSite": "",
+            "api": "https://cdn.jsdelivr.net/gh/maccms2023/tvbox@main/lib/kkys.py",
+            "type": 3,
+            "order": "M05"
+        },
+        {
+            "name": "电影人生｜秒播",
+            "version": 1,
+            "remark": "秒播源(jsdelivr) · 实验性",
+            "webSite": "",
+            "api": "https://cdn.jsdelivr.net/gh/maccms2023/tvbox@main/lib/%E7%94%B5%E5%BD%B1%E4%BA%BA%E7%94%9F.js",
+            "type": 3,
+            "order": "M06"
+        },
+        {
+            "name": "新瓜子影视｜秒播",
+            "version": 1,
+            "remark": "秒播源(jsdelivr) · 实验性",
+            "webSite": "",
+            "api": "https://cdn.jsdelivr.net/gh/maccms2023/tvbox@main/lib/%E7%93%9C%E5%AD%90%E5%BD%B1%E8%A7%86.py",
+            "type": 3,
+            "order": "M07"
+        },
+        {
+            "name": "4k视频｜秒播",
+            "version": 1,
+            "remark": "秒播源(jsdelivr) · 实验性",
+            "webSite": "",
+            "api": "https://cdn.jsdelivr.net/gh/maccms2023/tvbox@main/lib/PsyDuck-Qiji.py",
+            "type": 3,
+            "order": "M08"
+        },
+        {
+            "name": "88影视｜秒播",
+            "version": 1,
+            "remark": "秒播源(jsdelivr) · 实验性",
+            "webSite": "",
+            "api": "https://cdn.jsdelivr.net/gh/maccms2023/tvbox@main/lib/88%E5%BD%B1%E8%A7%86.min.js",
+            "type": 3,
+            "order": "M09"
+        },
+        {
+            "name": "豌豆｜秒播",
+            "version": 1,
+            "remark": "秒播源(jsdelivr) · 实验性",
+            "webSite": "",
+            "api": "https://cdn.jsdelivr.net/gh/maccms2023/tvbox@main/lib/%E8%B1%8C%E8%B1%86PRO.py",
+            "type": 3,
+            "order": "M10"
+        },
+        {
+            "name": "猪猪影院｜秒播",
+            "version": 1,
+            "remark": "秒播源(jsdelivr) · 实验性",
+            "webSite": "",
+            "api": "https://cdn.jsdelivr.net/gh/maccms2023/tvbox@main/lib/%E7%8C%AA%E7%8C%AA%E5%BD%B1%E9%99%A2.js",
+            "type": 3,
+            "order": "M11"
+        },
+        {
+            "name": "开心影院｜秒播",
+            "version": 1,
+            "remark": "秒播源(jsdelivr) · 实验性",
+            "webSite": "",
+            "api": "https://cdn.jsdelivr.net/gh/maccms2023/tvbox@main/lib/%E5%BC%80%E5%BF%83%E5%BD%B1%E9%99%A2.js",
+            "type": 3,
+            "order": "M12"
+        },
+        {
+            "name": "小鸭子看看｜秒播",
+            "version": 1,
+            "remark": "秒播源(jsdelivr) · 实验性",
+            "webSite": "",
+            "api": "https://cdn.jsdelivr.net/gh/maccms2023/tvbox@main/lib/%E5%B0%8F%E9%B8%AD%E7%9C%8B%E7%9C%8B.js",
+            "type": 3,
+            "order": "M13"
+        },
+        {
+            "name": "两个BT｜影视",
+            "version": 1,
+            "remark": "秒播源(jsdelivr) · 实验性",
+            "webSite": "",
+            "api": "https://cdn.jsdelivr.net/gh/maccms2023/tvbox@main/lib/%E4%B8%A4%E4%B8%AABT.py",
+            "type": 3,
+            "order": "M14"
+        },
+        {
+            "name": "金桔｜秒播",
+            "version": 1,
+            "remark": "秒播源(jsdelivr) · 实验性",
+            "webSite": "",
+            "api": "https://cdn.jsdelivr.net/gh/maccms2023/tvbox@main/lib/%E9%87%91%E6%A1%94.js",
+            "type": 3,
+            "order": "M15"
+        },
+        {
+            "name": "4K电影网｜秒播",
+            "version": 1,
+            "remark": "秒播源(jsdelivr) · 实验性",
+            "webSite": "",
+            "api": "https://cdn.jsdelivr.net/gh/maccms2023/tvbox@main/lib/4K%E7%94%B5%E5%BD%B1%E7%BD%91.py",
+            "type": 3,
+            "order": "M16"
+        },
+        {
+            "name": "麻花｜影视",
+            "version": 1,
+            "remark": "秒播源(jsdelivr) · 实验性",
+            "webSite": "",
+            "api": "https://cdn.jsdelivr.net/gh/maccms2023/tvbox@main/lib/%E9%BA%BB%E8%8A%B1.py",
+            "type": 3,
+            "order": "M17"
+        },
+        {
+            "name": "七猫｜影视",
+            "version": 1,
+            "remark": "秒播源(jsdelivr) · 实验性",
+            "webSite": "",
+            "api": "https://cdn.jsdelivr.net/gh/maccms2023/tvbox@main/lib/%E4%B8%83%E7%8C%AB.py",
+            "type": 3,
+            "order": "M18"
+        },
+        {
+            "name": "柯南｜影视",
+            "version": 1,
+            "remark": "秒播源(jsdelivr) · 实验性",
+            "webSite": "",
+            "api": "https://cdn.jsdelivr.net/gh/maccms2023/tvbox@main/lib/%E6%9F%AF%E5%8D%97.py",
+            "type": 3,
+            "order": "M19"
+        },
+        {
+            "name": "大众｜影视",
+            "version": 1,
+            "remark": "秒播源(jsdelivr) · 实验性",
+            "webSite": "",
+            "api": "https://cdn.jsdelivr.net/gh/maccms2023/tvbox@main/lib/%E5%A4%A7%E4%BC%97.py",
+            "type": 3,
+            "order": "M20"
+        },
+        {
+            "name": "荐片｜秒播",
+            "version": 1,
+            "remark": "秒播源(jsdelivr) · 实验性",
+            "webSite": "",
+            "api": "https://cdn.jsdelivr.net/gh/maccms2023/tvbox@main/lib/jianpian.js",
+            "type": 3,
+            "order": "M21"
+        },
+        {
+            "name": "看剧｜影视",
+            "version": 1,
+            "remark": "秒播源(jsdelivr) · 实验性",
+            "webSite": "",
+            "api": "https://cdn.jsdelivr.net/gh/maccms2023/tvbox@main/lib/AppToV5.py",
+            "type": 3,
+            "order": "M22"
+        },
+        {
+            "name": "文才｜影视",
+            "version": 1,
+            "remark": "秒播源(jsdelivr) · 实验性",
+            "webSite": "",
+            "api": "https://cdn.jsdelivr.net/gh/maccms2023/tvbox@main/lib/%E6%96%87%E6%89%8D%E5%BD%B1%E8%A7%86.py",
+            "type": 3,
+            "order": "M23"
+        },
+        {
+            "name": "猎手｜秒播",
+            "version": 1,
+            "remark": "秒播源(jsdelivr) · 实验性",
+            "webSite": "",
+            "api": "https://cdn.jsdelivr.net/gh/maccms2023/tvbox@main/lib/%E7%8C%8E%E6%89%8B%E5%BD%B1%E8%A7%86.py",
+            "type": 3,
+            "order": "M24"
+        },
+        {
+            "name": "蜀山｜影界",
+            "version": 1,
+            "remark": "秒播源(jsdelivr) · 实验性",
+            "webSite": "",
+            "api": "https://cdn.jsdelivr.net/gh/maccms2023/tvbox@main/lib/jieyingshi.py",
+            "type": 3,
+            "order": "M25"
+        },
+        {
+            "name": "皮皮虾｜秒播",
+            "version": 1,
+            "remark": "秒播源(jsdelivr) · 实验性",
+            "webSite": "",
+            "api": "https://cdn.jsdelivr.net/gh/maccms2023/tvbox@main/lib/ppx.py",
+            "type": 3,
+            "order": "M26"
+        },
+        {
+            "name": "步步影视｜秒播",
+            "version": 1,
+            "remark": "秒播源(jsdelivr) · 实验性",
+            "webSite": "",
+            "api": "https://cdn.jsdelivr.net/gh/maccms2023/tvbox@main/lib/4k.js",
+            "type": 3,
+            "order": "M27"
+        },
+        {
+            "name": "1905电影",
+            "version": 1,
+            "remark": "秒播源(jsdelivr) · 实验性",
+            "webSite": "",
+            "api": "https://cdn.jsdelivr.net/gh/maccms2023/tvbox@main/lib/1905.py",
+            "type": 3,
+            "order": "M28"
+        },
+        {
+            "name": "星芽 ｜ 短剧",
+            "version": 1,
+            "remark": "秒播源(jsdelivr) · 实验性",
+            "webSite": "",
+            "api": "https://cdn.jsdelivr.net/gh/maccms2023/tvbox@main/lib/XYDJ.py",
+            "type": 3,
+            "order": "M29"
+        },
+        {
+            "name": "A1｜ 动漫",
+            "version": 1,
+            "remark": "秒播源(jsdelivr) · 实验性",
+            "webSite": "",
+            "api": "https://cdn.jsdelivr.net/gh/maccms2023/tvbox@main/lib/ec67b9045d393737f073d2c9365533f0.js",
+            "type": 3,
+            "order": "M30"
+        },
+        {
+            "name": "爱听｜音乐",
+            "version": 1,
+            "remark": "秒播源(jsdelivr) · 实验性",
+            "webSite": "",
+            "api": "https://cdn.jsdelivr.net/gh/maccms2023/tvbox@main/lib/%E7%88%B1%E5%90%AC%E9%9F%B3%E4%B9%90.py",
+            "type": 3,
+            "order": "M31"
+        },
+        {
+            "name": "网络｜直播",
+            "version": 1,
+            "remark": "秒播源(jsdelivr) · 实验性",
+            "webSite": "",
+            "api": "https://cdn.jsdelivr.net/gh/maccms2023/tvbox@main/lib/WLZB.py",
+            "type": 3,
+            "order": "M32"
+        },
+        {
+            "name": "哔哩｜直播",
+            "version": 1,
+            "remark": "秒播源(jsdelivr) · 实验性",
+            "webSite": "",
+            "api": "https://cdn.jsdelivr.net/gh/maccms2023/tvbox@main/lib/BLZB.py",
+            "type": 3,
+            "order": "M33"
+        }
+    ]
+}
