@@ -1,0 +1,110 @@
+[
+  {
+    "id": "turbo01",
+    "name": "360资源站①",
+    "api": "https://360zy.com/api.php/provide/vod/",
+    "type": 0,
+    "extra": {
+      "gfw": false
+    }
+  },
+  {
+    "id": "turbo02",
+    "name": "360资源站②",
+    "api": "https://www.360zy.com/api.php/provide/vod/",
+    "type": 0,
+    "extra": {
+      "gfw": false
+    }
+  },
+  {
+    "id": "turbo03",
+    "name": "360资源站③",
+    "api": "https://360zy.net/api.php/provide/vod/",
+    "type": 0,
+    "extra": {
+      "gfw": false
+    }
+  },
+  {
+    "id": "turbo04",
+    "name": "360资源站④",
+    "api": "https://360zy.tv/api.php/provide/vod/",
+    "type": 0,
+    "extra": {
+      "gfw": false
+    }
+  },
+  {
+    "id": "turbo05",
+    "name": "粒子资源",
+    "api": "https://lzizy1.com/api.php/provide/vod/",
+    "type": 0,
+    "extra": {
+      "gfw": false
+    }
+  },
+  {
+    "id": "turbo06",
+    "name": "创享影视",
+    "api": "https://ys.cxkjg.cn/api/provide/vod",
+    "type": 0,
+    "extra": {
+      "gfw": false
+    }
+  },
+  {
+    "id": "turbo07",
+    "name": "豪华资源站",
+    "api": "https://hhzyapi.com/api.php/provide/vod",
+    "type": 0,
+    "extra": {
+      "gfw": false
+    }
+  },
+  {
+    "id": "turbo08",
+    "name": "非凡资源站",
+    "api": "https://ffzy5.tv/api.php/provide/vod",
+    "type": 0,
+    "extra": {
+      "gfw": false
+    }
+  },
+  {
+    "id": "turbo09",
+    "name": "非凡",
+    "api": "http://ffzy.tv/api.php/provide/vod",
+    "type": 0,
+    "extra": {
+      "gfw": false
+    }
+  },
+  {
+    "id": "turbo10",
+    "name": "金鹰影视",
+    "api": "https://jinyingzy.com/api.php/provide/vod",
+    "type": 0,
+    "extra": {
+      "gfw": false
+    }
+  },
+  {
+    "id": "turbo11",
+    "name": "虎牙",
+    "api": "https://www.huyaapi.com/api.php/provide/vod",
+    "type": 0,
+    "extra": {
+      "gfw": false
+    }
+  },
+  {
+    "id": "turbo12",
+    "name": "极速资源",
+    "api": "https://jszyapi.com/api.php/provide/vod",
+    "type": 0,
+    "extra": {
+      "gfw": false
+    }
+  }
+]
