@@ -7,7 +7,7 @@
     {
       "name": "360资源站①",
       "version": 1,
-      "remark": "实测2723-3823KB/s · 猫屋CDN极速·首选",
+      "remark": "极速·猫屋CDN·7.5万资源·首选",
       "webSite": "",
       "api": "https://360zy.com/api.php/provide/vod/",
       "type": 0,
@@ -16,7 +16,7 @@
     {
       "name": "360资源站②",
       "version": 1,
-      "remark": "360zy镜像·猫屋CDN极速·备用",
+      "remark": "极速·镜像·备用",
       "webSite": "",
       "api": "https://www.360zy.com/api.php/provide/vod/",
       "type": 0,
@@ -25,7 +25,7 @@
     {
       "name": "360资源站③",
       "version": 1,
-      "remark": "360zy镜像·猫屋CDN·备用",
+      "remark": "极速·镜像·备用",
       "webSite": "",
       "api": "https://360zy.net/api.php/provide/vod/",
       "type": 0,
@@ -34,81 +34,81 @@
     {
       "name": "360资源站④",
       "version": 1,
-      "remark": "360zy镜像·猫屋CDN·备用",
+      "remark": "极速·镜像·备用",
       "webSite": "",
       "api": "https://360zy.tv/api.php/provide/vod/",
       "type": 0,
       "order": "D04"
     },
     {
-      "name": "粒子资源",
+      "name": "淘片",
       "version": 1,
-      "remark": "实测196KB/s · lzv34 CDN·备用",
+      "remark": "次快·波动57-534KB/s·资源补充",
       "webSite": "",
-      "api": "https://lzizy1.com/api.php/provide/vod/",
+      "api": "https://taopianapi.com/cjapi/mc/vod/json.html",
       "type": 0,
       "order": "D05"
     },
     {
-      "name": "创享影视",
+      "name": "粒子资源",
       "version": 1,
-      "remark": "实测191KB/s · hd.kuktxu CDN",
+      "remark": "16.4万资源·18-141KB/s·搜冷门片用",
       "webSite": "",
-      "api": "https://ys.cxkjg.cn/api/provide/vod",
+      "api": "https://lzizy1.com/api.php/provide/vod",
       "type": 0,
       "order": "D06"
     },
     {
-      "name": "豪华资源站",
+      "name": "聚缘影视",
       "version": 1,
-      "remark": "实测127KB/s · play.hhuus CDN",
+      "remark": "11.8万资源·37-217KB/s",
       "webSite": "",
-      "api": "https://hhzyapi.com/api.php/provide/vod",
+      "api": "https://jyzyapi.com/api.php/provide/vod",
       "type": 0,
       "order": "D07"
     },
     {
-      "name": "非凡资源站",
+      "name": "金鹰影视",
       "version": 1,
-      "remark": "实测116KB/s · ffzy CDN",
+      "remark": "11.8万资源·56-95KB/s",
       "webSite": "",
-      "api": "https://ffzy5.tv/api.php/provide/vod",
+      "api": "https://jinyingzy.com/api.php/provide/vod",
       "type": 0,
       "order": "D08"
     },
     {
-      "name": "非凡",
+      "name": "红牛影视",
       "version": 1,
-      "remark": "实测99KB/s · ffzy CDN",
+      "remark": "11.8万资源·45-75KB/s",
       "webSite": "",
-      "api": "http://ffzy.tv/api.php/provide/vod",
+      "api": "https://www.hongniuzy3.com/api.php/provide/vod",
       "type": 0,
       "order": "D09"
     },
     {
-      "name": "金鹰影视",
+      "name": "光速资源",
       "version": 1,
-      "remark": "实测58KB/s",
+      "remark": "11.8万资源·20-49KB/s",
       "webSite": "",
-      "api": "https://jinyingzy.com/api.php/provide/vod",
+      "api": "https://api.guangsuapi.com/api.php/provide/vod",
       "type": 0,
       "order": "D10"
     },
     {
-      "name": "虎牙",
+      "name": "豪华资源站",
       "version": 1,
-      "remark": "实测56KB/s · 波动大",
+      "remark": "11.8万资源·19-39KB/s",
       "webSite": "",
-      "api": "https://www.huyaapi.com/api.php/provide/vod",
+      "api": "https://hhzyapi.com/api.php/provide/vod",
       "type": 0,
       "order": "D11"
     },
     {
-      "name": "极速资源",
+      "name": "创享影视",
       "version": 1,
-      "remark": "实测30KB/s",
+      "remark": "11.8万资源·85KB/s",
       "webSite": "",
-      "api": "https://jszyapi.com/api.php/provide/vod",
+      "api": "https://ys.cxkjg.cn/api/provide/vod",
       "type": 0,
       "order": "D12"
     }
