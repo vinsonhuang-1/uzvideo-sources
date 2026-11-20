@@ -1,0 +1,116 @@
+{
+  "panTools": [],
+  "danMu": [],
+  "recommend": [],
+  "live": [],
+  "vod": [
+    {
+      "name": "360资源站①",
+      "version": 1,
+      "remark": "实测2723-3823KB/s · 猫屋CDN极速·首选",
+      "webSite": "",
+      "api": "https://360zy.com/api.php/provide/vod/",
+      "type": 0,
+      "order": "D01"
+    },
+    {
+      "name": "360资源站②",
+      "version": 1,
+      "remark": "360zy镜像·猫屋CDN极速·备用",
+      "webSite": "",
+      "api": "https://www.360zy.com/api.php/provide/vod/",
+      "type": 0,
+      "order": "D02"
+    },
+    {
+      "name": "360资源站③",
+      "version": 1,
+      "remark": "360zy镜像·猫屋CDN·备用",
+      "webSite": "",
+      "api": "https://360zy.net/api.php/provide/vod/",
+      "type": 0,
+      "order": "D03"
+    },
+    {
+      "name": "360资源站④",
+      "version": 1,
+      "remark": "360zy镜像·猫屋CDN·备用",
+      "webSite": "",
+      "api": "https://360zy.tv/api.php/provide/vod/",
+      "type": 0,
+      "order": "D04"
+    },
+    {
+      "name": "粒子资源",
+      "version": 1,
+      "remark": "实测196KB/s · lzv34 CDN·备用",
+      "webSite": "",
+      "api": "https://lzizy1.com/api.php/provide/vod/",
+      "type": 0,
+      "order": "D05"
+    },
+    {
+      "name": "创享影视",
+      "version": 1,
+      "remark": "实测191KB/s · hd.kuktxu CDN",
+      "webSite": "",
+      "api": "https://ys.cxkjg.cn/api/provide/vod",
+      "type": 0,
+      "order": "D06"
+    },
+    {
+      "name": "豪华资源站",
+      "version": 1,
+      "remark": "实测127KB/s · play.hhuus CDN",
+      "webSite": "",
+      "api": "https://hhzyapi.com/api.php/provide/vod",
+      "type": 0,
+      "order": "D07"
+    },
+    {
+      "name": "非凡资源站",
+      "version": 1,
+      "remark": "实测116KB/s · ffzy CDN",
+      "webSite": "",
+      "api": "https://ffzy5.tv/api.php/provide/vod",
+      "type": 0,
+      "order": "D08"
+    },
+    {
+      "name": "非凡",
+      "version": 1,
+      "remark": "实测99KB/s · ffzy CDN",
+      "webSite": "",
+      "api": "http://ffzy.tv/api.php/provide/vod",
+      "type": 0,
+      "order": "D09"
+    },
+    {
+      "name": "金鹰影视",
+      "version": 1,
+      "remark": "实测58KB/s",
+      "webSite": "",
+      "api": "https://jinyingzy.com/api.php/provide/vod",
+      "type": 0,
+      "order": "D10"
+    },
+    {
+      "name": "虎牙",
+      "version": 1,
+      "remark": "实测56KB/s · 波动大",
+      "webSite": "",
+      "api": "https://www.huyaapi.com/api.php/provide/vod",
+      "type": 0,
+      "order": "D11"
+    },
+    {
+      "name": "极速资源",
+      "version": 1,
+      "remark": "实测30KB/s",
+      "webSite": "",
+      "api": "https://jszyapi.com/api.php/provide/vod",
+      "type": 0,
+      "order": "D12"
+    }
+  ]
+}
